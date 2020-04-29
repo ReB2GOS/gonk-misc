@@ -17,7 +17,6 @@ PRODUCT_PACKAGES += \
 	bluetoothd \
 	librecovery \
 	gaia \
-	gecko \
 	sources.xml \
 	$(NULL)
 
